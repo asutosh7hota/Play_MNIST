@@ -1,0 +1,21 @@
+{
+  "name": "Play-MNIST",
+  "version": "1",
+  "description": "Sketch a number and check which model fits the best for classification of MNIST dataset",
+  "main": "responsive-sketchpad.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+
+  "keywords": [
+    "canvas",
+    "Tensorflow",
+    "Machine Learning",
+    "CNN"
+  ],
+  "author": "Asutosh Hota",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine": "^2.3.2"
+  }
+}

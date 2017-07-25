@@ -1,2 +1,3 @@
-# Play_MNIST
-Sketch a number and check which model fits the best for classification of MNIST
+A simple app classifying MNIST data.
+
+Thanks to https://github.com/theisensanders-wf/responsive-sketchpad for the sketchpad integration.
